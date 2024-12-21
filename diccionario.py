@@ -5,7 +5,7 @@ meme_dict = {
             "LOL": "Una respuesta común a algo gracioso",
             "ROFL": "una respuesta a una broma",
             "SHEESH": "ligera desaprobación",
-            "CREEPY ": "aterrador, siniestro"
+            "CREEPY": "aterrador, siniestro"
             }
 for i in range(5):
     word = input("Escribe una palabra que no entiendas (¡con mayúsculas!): ")
